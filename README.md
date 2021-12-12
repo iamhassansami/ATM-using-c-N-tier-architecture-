@@ -1,6 +1,6 @@
 # ATM-using-c#-N-tier-architecture-
 
-ATM implementation with costumer and administration controls.
+ATM implementation with customer and administration controls.
 
 Admin can 
 
@@ -16,7 +16,7 @@ Admin can
 
 6----Exit
 
-Costumrer can
+Customrer can
 
 1----Withdraw Cash
 
